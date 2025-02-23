@@ -27,7 +27,7 @@ Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, fe
   }
   .wrapper{
     position: relative;
-    width: 7 00px;
+    width: 100%;
     height: 400px;
   }
   .wrapper .img{
